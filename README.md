@@ -1,2 +1,2 @@
-# spectrum_subt
+# Spectrum Subtraction
 Noise reduction by using Spectrum Subtraction method  
